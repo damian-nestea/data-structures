@@ -1,0 +1,7 @@
+C:\Users\Jair\Documents\PUC\CSharp\data-structures\ExArrays01\ExArrays01\bin\Debug\ExArrays01.exe.config
+C:\Users\Jair\Documents\PUC\CSharp\data-structures\ExArrays01\ExArrays01\bin\Debug\ExArrays01.exe
+C:\Users\Jair\Documents\PUC\CSharp\data-structures\ExArrays01\ExArrays01\bin\Debug\ExArrays01.pdb
+C:\Users\Jair\Documents\PUC\CSharp\data-structures\ExArrays01\ExArrays01\obj\Debug\ExArrays01.csproj.AssemblyReference.cache
+C:\Users\Jair\Documents\PUC\CSharp\data-structures\ExArrays01\ExArrays01\obj\Debug\ExArrays01.csproj.CoreCompileInputs.cache
+C:\Users\Jair\Documents\PUC\CSharp\data-structures\ExArrays01\ExArrays01\obj\Debug\ExArrays01.exe
+C:\Users\Jair\Documents\PUC\CSharp\data-structures\ExArrays01\ExArrays01\obj\Debug\ExArrays01.pdb
