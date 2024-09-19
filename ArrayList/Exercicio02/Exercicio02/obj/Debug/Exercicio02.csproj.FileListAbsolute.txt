@@ -1,0 +1,7 @@
+C:\Users\Jair\Documents\PUC\CSharp\data-structures\ArrayList\Exercicio02\Exercicio02\obj\Debug\Exercicio02.csproj.AssemblyReference.cache
+C:\Users\Jair\Documents\PUC\CSharp\data-structures\ArrayList\Exercicio02\Exercicio02\obj\Debug\Exercicio02.csproj.CoreCompileInputs.cache
+C:\Users\Jair\Documents\PUC\CSharp\data-structures\ArrayList\Exercicio02\Exercicio02\bin\Debug\Exercicio02.exe.config
+C:\Users\Jair\Documents\PUC\CSharp\data-structures\ArrayList\Exercicio02\Exercicio02\bin\Debug\Exercicio02.exe
+C:\Users\Jair\Documents\PUC\CSharp\data-structures\ArrayList\Exercicio02\Exercicio02\bin\Debug\Exercicio02.pdb
+C:\Users\Jair\Documents\PUC\CSharp\data-structures\ArrayList\Exercicio02\Exercicio02\obj\Debug\Exercicio02.exe
+C:\Users\Jair\Documents\PUC\CSharp\data-structures\ArrayList\Exercicio02\Exercicio02\obj\Debug\Exercicio02.pdb
