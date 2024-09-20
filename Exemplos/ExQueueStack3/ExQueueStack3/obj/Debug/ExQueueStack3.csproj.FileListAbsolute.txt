@@ -1,0 +1,7 @@
+C:\Users\Jair\Documents\PUC\CSharp\data-structures\Exemplos\ExQueueStack3\ExQueueStack3\bin\Debug\ExQueueStack3.exe.config
+C:\Users\Jair\Documents\PUC\CSharp\data-structures\Exemplos\ExQueueStack3\ExQueueStack3\bin\Debug\ExQueueStack3.exe
+C:\Users\Jair\Documents\PUC\CSharp\data-structures\Exemplos\ExQueueStack3\ExQueueStack3\bin\Debug\ExQueueStack3.pdb
+C:\Users\Jair\Documents\PUC\CSharp\data-structures\Exemplos\ExQueueStack3\ExQueueStack3\obj\Debug\ExQueueStack3.csproj.AssemblyReference.cache
+C:\Users\Jair\Documents\PUC\CSharp\data-structures\Exemplos\ExQueueStack3\ExQueueStack3\obj\Debug\ExQueueStack3.csproj.CoreCompileInputs.cache
+C:\Users\Jair\Documents\PUC\CSharp\data-structures\Exemplos\ExQueueStack3\ExQueueStack3\obj\Debug\ExQueueStack3.exe
+C:\Users\Jair\Documents\PUC\CSharp\data-structures\Exemplos\ExQueueStack3\ExQueueStack3\obj\Debug\ExQueueStack3.pdb
