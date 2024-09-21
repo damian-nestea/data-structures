@@ -1,0 +1,7 @@
+C:\Users\Jair\Documents\PUC\CSharp\data-structures\Exemplos\ExHashtable01\ExHashtable01\bin\Debug\ExHashtable01.exe.config
+C:\Users\Jair\Documents\PUC\CSharp\data-structures\Exemplos\ExHashtable01\ExHashtable01\bin\Debug\ExHashtable01.exe
+C:\Users\Jair\Documents\PUC\CSharp\data-structures\Exemplos\ExHashtable01\ExHashtable01\bin\Debug\ExHashtable01.pdb
+C:\Users\Jair\Documents\PUC\CSharp\data-structures\Exemplos\ExHashtable01\ExHashtable01\obj\Debug\ExHashtable01.csproj.AssemblyReference.cache
+C:\Users\Jair\Documents\PUC\CSharp\data-structures\Exemplos\ExHashtable01\ExHashtable01\obj\Debug\ExHashtable01.csproj.CoreCompileInputs.cache
+C:\Users\Jair\Documents\PUC\CSharp\data-structures\Exemplos\ExHashtable01\ExHashtable01\obj\Debug\ExHashtable01.exe
+C:\Users\Jair\Documents\PUC\CSharp\data-structures\Exemplos\ExHashtable01\ExHashtable01\obj\Debug\ExHashtable01.pdb
